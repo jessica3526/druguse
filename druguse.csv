@@ -1,0 +1,20 @@
+"Title:","Illicit Drug Use in the Past Month from the National Survey on Drug Use and Health (NSDUH) Database"
+"SubTitle:","USA"
+"Time:","2014 - 2020"
+"Unit of Measure:","#","#","#"
+"Citation:","Substance Abuse and Mental Health Services Administration (U.S. Department of Health and Human Services) (2022-07-20). National Survey on Drug Use and Health (NSDUH): Illicit Drug Use in the Past Month | 12-17 Years Old | 18-25 Years Old | 26 Years and Older, 2014 - 2020. Data Planet? Statistical Datasets: A SAGE Publishing Resource. (Dataset). Dataset-ID:  102-001-001 doi:https://doi.org/10.6068/DP1845D2558FB30"
+"ColumnCount:",4
+"RowCount:",6
+
+"Time","12-17 Years Old","18-25 Years Old","26 Years and Older"
+"2014",2267000,7583000,15928000
+"2016",2076000,7904000,17841000
+"2017",1962000,8156000,19400000
+"2018",1983000,8216000,20998000
+"2019",2084000,8268000,23509000
+"2020",1923000,8211000,26422000
+
+
+
+"Publisher:", "Substance Abuse and Mental Health Services Administration (U.S. Department of Health and Human Services)"
+"Copyright:", "The data contained in Data Planet(tm): A SAGE Publishing Resource is made available via license agreement with subscribing organizations. Your organization's license may vary from this version."
